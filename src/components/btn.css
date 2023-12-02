@@ -1,0 +1,29 @@
+.btn{
+    width: 5%;
+    height: 100vh;
+    position: absolute;
+    top: 0;
+    z-index: 999;
+    background-color: black;
+    color: white;
+}
+.left{
+    left: 0;
+}
+.right{
+    right: 0;
+}
+.btm{
+    width: 5%;
+    height: 10vh;
+    position: absolute;
+    top: 90%;
+    z-index: 999;
+    color: white;
+}
+.lefty{
+    left: 10%;
+}
+.righty{
+    left: 70%;
+}
